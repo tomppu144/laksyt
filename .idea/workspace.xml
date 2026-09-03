@@ -1,14 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9392449-3bbb-4b35-bdf6-1131685304c9" name="Changes" comment="" />
+    <list default="true" id="a9392449-3bbb-4b35-bdf6-1131685304c9" name="Changes" comment="läksyt">
+      <change afterPath="$PROJECT_DIR$/6/6.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/6.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/6.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/6.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6/6.6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6/6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/6/6.1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tomppu144"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tomppu144/laksyt.git",
+    "accountId": "2d4f9d0e-f6b1-4ace-aada-dc79e35d7790"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000258506239659" />
+      <entry key="S5" value="1.0278374786710243" />
+      <entry key="S10" value="1.4074610428840566" />
+      <entry key="S30" value="5.884188066827144" />
+      <entry key="S60" value="13.82665131343132" />
+      <entry key="M2" value="24.098640461556727" />
+      <entry key="M5" value="35.13962604981004" />
+      <entry key="M10" value="40.13450630207068" />
+      <entry key="M15" value="41.99161632923438" />
+      <entry key="M30" value="44.8714276263435" />
+      <entry key="H1" value="56.52799747511882" />
+      <entry key="H2" value="86.490387027718" />
+      <entry key="H4" value="123.07871179939777" />
+      <entry key="D1" value="177.27590688563242" />
+      <entry key="W1" value="189.7998547058339" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="8.657911190527753E-130" />
+      <entry key="S60" value="2.942432869332407E-65" />
+      <entry key="M2" value="5.424419664196729E-33" />
+      <entry key="M5" value="1.2409129381224947E-13" />
+      <entry key="M10" value="3.5226594188517496E-7" />
+      <entry key="M15" value="4.9878544384522384E-5" />
+      <entry key="M30" value="0.007062474381158674" />
+      <entry key="H1" value="0.0840385291468066" />
+      <entry key="H2" value="0.28989399639662516" />
+      <entry key="H4" value="0.5384180498428944" />
+      <entry key="D1" value="0.9019585957334987" />
+      <entry key="W1" value="0.9853671641189763" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="5.61358115094903E-15" />
+      <entry key="MS500" value="0.001412043256392331" />
+      <entry key="S2" value="0.1938619939171026" />
+      <entry key="S5" value="0.5414618265276175" />
+      <entry key="S10" value="1.0981700915503871" />
+      <entry key="S30" value="5.709522480643586" />
+      <entry key="S60" value="13.696813648571565" />
+      <entry key="M2" value="24.008949166183406" />
+      <entry key="M5" value="35.0935450114535" />
+      <entry key="M10" value="40.10919881476131" />
+      <entry key="M15" value="41.97423481227586" />
+      <entry key="M30" value="44.86928198767468" />
+      <entry key="H1" value="56.60618227684004" />
+      <entry key="H2" value="86.77568915450364" />
+      <entry key="H4" value="123.613806677171" />
+      <entry key="D1" value="178.1770565837891" />
+      <entry key="W1" value="190.78509787191018" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2,
@@ -22,15 +111,42 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.6.1.executor": "Run",
+    "Python.6.2.executor": "Run",
+    "Python.6.3.executor": "Run",
+    "Python.6.4.executor": "Run",
+    "Python.6.5.executor": "Run",
+    "Python.6.6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/thoma/PycharmProjects/laksyt/6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\thoma\PycharmProjects\laksyt\6" />
+      <recent name="C:\Users\thoma\PycharmProjects\laksyt\5" />
+      <recent name="C:\Users\thoma\PycharmProjects\laksyt\4" />
+      <recent name="C:\Users\thoma\PycharmProjects\laksyt\3" />
+      <recent name="C:\Users\thoma\PycharmProjects\laksyt\2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\thoma\PycharmProjects\laksyt" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -45,11 +161,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1788431709629</updated>
-      <workItem from="1788431710733" duration="3000" />
+      <workItem from="1788431710733" duration="6843000" />
     </task>
+    <task id="LOCAL-00001" summary="läksyt">
+      <option name="closed" value="true" />
+      <created>1788431874333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1788431874333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="läksyt" />
+    <option name="LAST_COMMIT_MESSAGE" value="läksyt" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/laksyt$6_3.coverage" NAME="6.3 Coverage Results" MODIFIED="1788433802113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
+    <SUITE FILE_PATH="coverage/laksyt$6_5.coverage" NAME="6.5 Coverage Results" MODIFIED="1788446517868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
+    <SUITE FILE_PATH="coverage/laksyt$6_6.coverage" NAME="6.6 Coverage Results" MODIFIED="1788447727248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
+    <SUITE FILE_PATH="coverage/laksyt$6_2.coverage" NAME="6.2 Coverage Results" MODIFIED="1788433057436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
+    <SUITE FILE_PATH="coverage/laksyt$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1788432396535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
+    <SUITE FILE_PATH="coverage/laksyt$6_4.coverage" NAME="6.4 Coverage Results" MODIFIED="1788434682081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6" />
   </component>
 </project>
