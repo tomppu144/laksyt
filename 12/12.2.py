@@ -1,7 +1,6 @@
-
 import requests
 
-api_avain = "85e532df0bc3e3346e4277e848804483"
+api_avain = "oma_api_avain"
 
 paikkakunta = input("Anna paikkakunta: ")
 
@@ -36,7 +35,7 @@ else:
     saatila = tiedot["weather"][0]["description"]
     lampotila_kelvin = tiedot["main"]["temp"]
 
-    # Muunnetaan Kelvin Celsius-asteiksi
+
     lampotila_celsius = lampotila_kelvin - 273.15
 
     print(f"Säätila: {saatila}")
